@@ -8,258 +8,188 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Aleksei Gruzdev
+    tagline: Business System Analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: algruwork@gmail.com
+    phone: 
+    timezone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website: #do not add http://
+    linkedin:
+    xing:
+    github: a0l6g0r8a9l2
+    telegram: Alex_Gruzdev # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: B1 - B2
+
+        - idiom: Russian
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Investing
           link:
 
-        - item: Snowboarding
+        - item: Blockchain
           link:
 
-        - item: Cooking
+        - item: Python pet-projects
+          link:
+        
+        - item: Traveling
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Professional systems and business analyst. 
+      My expertise in gathering requirements, integration development, and process optimization will enable any team to achieve outstanding results
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor
+        university: Nizhny Novgorod State Technical University. R. E. Alekseeva
+        time: 2009 - 2014
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Physics and Chemistry. Microelectronics and solid-state electronics
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Business System Analyst
+        time: Dec, 2022 - Present
+        company: Startup VIDATOR, Dubai
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I am involved in the development of a video hosting platform. 
+          Main Responsibilities: 
+            - Gathering, analyzing, and managing business and system requirements 
+            - Planning the backlog for the development team 
+            - Conducting research tasks (e.g., "how to distinguish video quality depending on the connection speed") 
+            - Integrating and configuring external open source tools (e.g., freescout) 
+          Main Achievements: 
+            - Maintaining a realistic backlog for the team for 2 sprints ahead 
+            - Implementing standard system and business requirements 
+            - Increasing documentation coverage from 0 to 80% 
+            - Providing exceptional leadership and mentorship to the development team, fostering a collaborative and high-performing work culture
+      - role: Lead Systems Analyst
+        time: Jul, 2019 - Dec, 2022
+        company: BSC MSC, Moscow
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          I participated in 2 projects: 
+          1. Development of mobile / web banking. Savings and investment group. 
+          2. Development of mobile client for a brokerage application. 
+          Main Responsibilities: 
+            - Client app system design (CJM, UI moqups, FRD, BRD) 
+            - Server side system design (microservices architecture - java, spring, hibernate, PostgreSQL) 
+            - Integration design (REST, GraphQL, MQ) 
+            - Technical product support and troubleshooting 
+            - Backlog prioritization and decomposition 
+          Main Achievements: 
+          I'm the one who has implemented many products and integration from scratch, making others even. These features was one of cause that out business direction was always more than profitable
+      - role: Presale Solution Architect
+        time: Feb, 2019 - Jul, 2019
+        company: Autodor Telekom, Moscow
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Main Responsibilities: 
+            - Analyzing operations to determine opportunities to automate processes and functions.
+            - High level system design. 
+            - Solution presentation (demo) 
+          Main Achievements: 
+            - 12+ height level solutions prepared 
+            - 4 accepted by the customer
+      - role: IT Specialist
+        time: Nov, 2014 - Feb, 2019
+        company: Autodor Telekom, Moscow
+        details: |
+          Transset is my "alma mater", where I have held several roles and worked on various projects. During my time there (from November 2014 to Feb 2019), I have grown exponentially as a specialist.
+          I started working at Transset in November 2014 as a Support Engineer. 
+          My main responsibilities included: 
+            - Solving and diagnosing hardware, software, and network problems. 
+            - Ensuring first-level contact and transferring solutions to customer problems. 
+            - Properly transferring unresolved requests to the next level of support. 
+            - Assisting customers in tracking down and troubleshooting hardware and software issues. 
+            - Bug tracking, functional testing, and writing SQL queries. 
+
+          From April 2017 to June 2018, I worked as a Technical Support Engineer. 
+          My main responsibilities were: 
+            - Providing Level 2 (L2) Support by diagnosing, investigating, and resolving issues, as well as coordinating with Level 3 (L3) and/or IT application teams to resolve issues. 
+            - Resolving all issues escalated by the Level 1 (L1) team and escalating to L3 teams within Service Level Agreements (SLAs) if no solution is available. 
+            - Reviewing and creating technical troubleshooting process documents as needed. 
+            - Managing incidents and creating customer reports as needed. 
+            - Being available to cover on-call support schedules on a rotating basis 24x7, including weekends and holidays when necessary. 
+
+          From October 2018 to February 2019, I participated in an ESB implementation project as System Analyst. 
+          My main responsibilities were: 
+            - Designing and coordinating integration solutions in the Service-Oriented Architecture (SOA) paradigm. 
+            - Auditing information systems existing in the organization's infrastructure. 
+            - Consulting with customers and their contractors regarding implemented software. 
+            - Participating in writing technical architecture documentation
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        - name: Agile Product Ownership
+          start: May 2020
+          end: June 2020
+          organization: Partner Consulting
+          credentialid: 2105108
+          credentialurl: https://drive.google.com/file/d/1cHG-jNq8jqJ2MVP_RuVDeRI0_emUalhj/view
+          credentialname: 
+          details:
+        - name: Agile Professional Course
+          start: May 2020
+          end: June 2020
+          organization: Partner Consulting
+          credentialid: 2105026
+          credentialurl: https://drive.google.com/file/d/1cHG-jNq8jqJ2MVP_RuVDeRI0_emUalhj/view
+          credentialname:
+          details:
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Confluence, Jira, DocAsCode
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: UML, BPMN, C4, ER
         level: 98%
 
-      - name: Angular
+      - name: HTTP, REST, GraphQL, Websoket
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: XML, JSON, YAML
+        level: 98%
+
+      - name: Agile, Scrum, Kanban
         level: 95%
 
-      - name: Ruby on Rails
+      - name: SQL
         level: 85%
+      
+      - name: UI Prototyping
+        level: 45%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux, Docker, Bash, Git
+        level: 35%
+      
+      - name: Python
+        level: 35%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
