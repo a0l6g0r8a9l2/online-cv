@@ -19,7 +19,7 @@ sidebar:
     citizenship:
     website: #do not add http://
     linkedin: www.linkedin.com/in/aleksei-gruzdev-024572274
-    xing: alandoe
+    xing:
     github: a0l6g0r8a9l2
     telegram: Alex_Gruzdev # add your nickname without '@' sign
     gitlab:
@@ -48,7 +48,7 @@ sidebar:
         - item: Blockchain
           link:
 
-        - item: Python pet-projects
+        - item: Pet-projects (Python)
           link:
         
         - item: Traveling
@@ -91,16 +91,18 @@ experiences:
         company: BSC MSC, Moscow
         details: |
           I participated in 2 projects: 
-          1. Development of mobile / web banking. Savings and investment group. 
-          2. Development of mobile client for a brokerage application. 
+            1. Development of mobile / web banking. Savings and investment group. 
+            2. Development of mobile client for a brokerage application. 
+          
           Main Responsibilities: 
             - Client app system design (CJM, UI moqups, FRD, BRD) 
             - Server side system design (microservices architecture - java, spring, hibernate, PostgreSQL) 
             - Integration design (REST, GraphQL, MQ) 
             - Technical product support and troubleshooting 
             - Backlog prioritization and decomposition 
+          
           Main Achievements: 
-          I'm the one who has implemented many products and integration from scratch, making others even. These features was one of cause that out business direction was always more than profitable
+            I'm the one who has implemented many products and integration from scratch, making others even. These features was one of cause that out business direction was always more than profitable
       - role: Presale Solution Architect
         time: Feb, 2019 - Jul, 2019
         company: Autodor Telekom, Moscow
