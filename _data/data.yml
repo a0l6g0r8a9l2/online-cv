@@ -120,6 +120,7 @@ experiences:
         details: |
           Transset is my "alma mater", where I have held several roles and worked on various projects. During my time there (from November 2014 to Feb 2019), I have grown exponentially as a specialist.
           I started working at Transset in November 2014 as a Support Engineer. 
+          
           My main responsibilities included: 
             - Solving and diagnosing hardware, software, and network problems. 
             - Ensuring first-level contact and transferring solutions to customer problems. 
@@ -159,6 +160,22 @@ certifications:
           organization: Partner Consulting
           credentialid: 2105026
           credentialurl: https://drive.google.com/file/d/1cHG-jNq8jqJ2MVP_RuVDeRI0_emUalhj/view
+          credentialname:
+          details:
+        - name: Basics of Statistics
+          start: May 2021
+          end: June 2021
+          organization: Bioinformatic Institute
+          credentialid:
+          credentialurl: https://drive.google.com/file/d/19SMSLSMKqfPqPZYCgSzuqmgHD_rFD94n/view
+          credentialname:
+          details:
+        - name: Basics of Python
+          start: Nov 2019
+          end: Dec 2019
+          organization: Bioinformatic Institute
+          credentialid:
+          credentialurl: https://drive.google.com/file/d/1Y109iG9sHkMYmsqhi55Sal17NVzeL0wZ/view
           credentialname:
           details:
 
